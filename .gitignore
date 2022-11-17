@@ -119,3 +119,5 @@ dmypy.json
 cython_debug/
 
 .vscode/
+
+example/.env.template
