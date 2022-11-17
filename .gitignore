@@ -121,3 +121,4 @@ cython_debug/
 .vscode/
 
 example/.env.template
+.env.template
